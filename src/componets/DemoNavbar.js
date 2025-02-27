@@ -12,7 +12,7 @@ const DemoNavbar = () => {
   <div className="collapse navbar-collapse" id="navbarSupportedContent">
     <ul className="navbar-nav ml-auto">
       <li className="nav-item active">
-        <Link className="nav-link text-white" to="/Home">Home </Link>
+        <Link className="nav-link text-white" to="/">Home </Link>
       </li>
 
       <li className="nav-item">
